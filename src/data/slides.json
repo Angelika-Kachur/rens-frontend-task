@@ -1,0 +1,15 @@
+[{
+  "id": 1,
+  "sliderText": "Classic Black Rens",
+  "url": "assets/pic1.png"
+},
+{ 
+  "id": 2,
+  "sliderText": "Red Rens For Brave",
+  "url": "assets/pic2.png"
+},
+{ 
+  "id": 3,
+  "sliderText": "Rens For Everyone",
+  "url": "assets/pic3.png"
+}]
