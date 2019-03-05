@@ -65,6 +65,7 @@ export default {
 .slide {
   display: none;
   align-items: center;
+  justify-content: center;
   transition: ease all 0.2s;
   background-size: cover;
   background-position: 50% 70%;
@@ -76,7 +77,7 @@ export default {
   display: flex;
 }
 .slide:nth-child(2) {
-  text-align: left;
+  justify-content: start;
 }
 .slide:nth-child(2) .slider-text {
   padding: 0 7%;
