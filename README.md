@@ -1,4 +1,5 @@
-# RENS excercise
+# RENS TEST excercise
+for great startup https://rensoriginal.com/
 
 Create a component that has
 1. an image background that changes after 5 seconds (images are stored in `images` folder)
